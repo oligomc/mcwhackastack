@@ -1,0 +1,9 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "#was:whack_a_stackable",
+    "nbt": "{HurtTime:10s}",
+    "vehicle": {}
+  }
+}
